@@ -3,7 +3,7 @@ package ldap
 import (
 	"testing"
 
-	"github.com/johnweldon/asn1-ber"
+	"github.com/whaslbeck/asn1-ber"
 )
 
 type compileTest struct {
