@@ -7,7 +7,7 @@ package ldap
 import (
 	"errors"
 
-	"github.com/johnweldon/asn1-ber"
+	"github.com/whaslbeck/asn1-ber"
 )
 
 func (l *Conn) Bind(username, password string) error {
